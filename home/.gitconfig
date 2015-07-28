@@ -1,0 +1,13 @@
+[user]
+	name = Brian Reese
+	email = darkcody@users.noreply.github.com
+[alias]
+co = checkout
+ci = commit
+rb = rebase
+st = status
+sb = show-branch
+log1 = log --oneline
+l1 = log --oneline
+[url "https://github"]
+	insteadOf = git://github
